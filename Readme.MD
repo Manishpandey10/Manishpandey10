@@ -81,8 +81,8 @@ const manish = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Manishpandey10&repo=ecommerce-backend&theme=radical&hide_border=true)](https://github.com/Manishpandey10/ecommerce-backend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Manishpandey10&repo=food-delivery-app&theme=radical&hide_border=true)](https://github.com/Manishpandey10/food-delivery-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Manishpandey10&repo=YOUR_REPO_NAME_1&theme=radical&hide_border=true)](https://github.com/Manishpandey10/E-commerce-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Manishpandey10&repo=YOUR_REPO_NAME_2&theme=radical&hide_border=true)](https://github.com/Manishpandey10/WeFood)
 
 </div>
 
