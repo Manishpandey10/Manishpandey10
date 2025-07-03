@@ -16,7 +16,7 @@
 ```javascript
 const manish = {
     pronouns: "He/Him",
-    role: [Backend Engineer","Frontend Engineer"],
+    role: ["Backend Engineer","Frontend Engineer"],
     location: "India 🇮🇳",
     passion: ["Scalable Applications", "E-commerce", "Food Delivery", "Blogging"],
     hobbies: ["Reading 📚", "Writing ✍️", "Coding 💻"],
